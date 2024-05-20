@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome">Welcome to the Pizza Order!</string>
+    <string name="select">To make your own pizza, order, please select the ingredients to put on the top of the Pizza base from below:</string>
+    <string name="tomatoes">Tomatoes (£2)</string>
+    <string name="peppers">Peppers (£1)</string>
+    <string name="mushrooms">Mushrooms (£2)</string>
+    <string name="olives">Olives (£1)</string>
+    <string name="salami">Salami (£3)</string>
+    <string name="corn">Corn (£1)</string>
+    <string name="base">Please notice  that the Pizza base is £6</string>
+    <string name="ingredients">Ingredients Selected:</string>
+    <string name="total">Total Needs to be Paid:</string>
+
+</resources>
